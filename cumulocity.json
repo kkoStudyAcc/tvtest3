@@ -3,9 +3,10 @@
   "contextPath": "Test3",
   "key": "Test3-appkey",
   "name": "Test3",
-  "resourcesUrl": "https://bitbucket.org/USER/REPO/raw/master/build",
+  "resourcesUrl": "https://github.com/kkoStudyAcc/tvtest3/tree/master/build",
   "type": "HOSTED",
   "imports": [
     "core/c8yBranding"
+    "Test3/myplugin"
   ]
 }
