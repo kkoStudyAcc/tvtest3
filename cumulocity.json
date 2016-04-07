@@ -1,0 +1,11 @@
+{
+  "availability": "PRIVATE",
+  "contextPath": "Test3",
+  "key": "Test3-appkey",
+  "name": "Test3",
+  "resourcesUrl": "https://bitbucket.org/USER/REPO/raw/master/build",
+  "type": "HOSTED",
+  "imports": [
+    "core/c8yBranding"
+  ]
+}
